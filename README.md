@@ -1,6 +1,6 @@
 # Pulse Oximeter & Heart Rate Sensor
 
-The ***Pulse Oximeter & Heart Rate Sensor*** is made of two chips (MAX30101 & MAX32664 ). Together, they perform biometric sensing.  
+The [Pulse Oximeter & Heart Rate Sensor](https://learn.sparkfun.com/tutorials/sparkfun-pulse-oximeter-and-heart-rate-monitor-hookup-guide#example-1-config-bpm-mode-1) is made of two chips (MAX30101 & MAX32664 ). Together, they perform biometric sensing.  
 
 The *MAX30101* gets your heart rate (BPM) and blood oxygen levels (SpO2) through the process of photoplethysmography (obtaining biometric data with light).
 
