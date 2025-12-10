@@ -37,3 +37,14 @@ GND | GND
 ----
 ### CODE AND INSTRUCTIONS
 
+- Download the corresponding libraries [SparkFun_Bio_Sensor_Hub_Library](https://github.com/CamilaColussi-KSA/SparkFun_Bio_Sensor_Hub_Library)
+
+- Install the libraries via "Importing a .zip Library". Instructions [here](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
+
+- Open Arduino IDE and find the sensor examples:
+
+    - File > Examples > Adafruit TCS34725 > tcs34725
+
+- Upload the code to your Arduino board.
+
+- Open Arduino's Serial Monitor to see the incoming data.
