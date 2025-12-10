@@ -47,7 +47,21 @@ GND | GND
 
 - Upload the code to your Arduino board.
 
-- Open Arduino's Serial Monitor to see the incoming data.
+- Open the Arduino Serial Monitor.
+
+- Set the Serial Monitor BAUD to 115200 to see the incoming data.
+
+**TEST**
+
+- Place your finger on the sensor for at least 10 seconds.
+
+- You should see *Status: 3* (Finger Detected)
+
+- Remove your finger
+
+- You should see *Heart-Rate*, *Oxygen* and *Confidence values*. 
+
+
 
 ----
 ### UNDERSTANDING THE SENSOR DATA
