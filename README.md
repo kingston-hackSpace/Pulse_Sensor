@@ -43,8 +43,28 @@ GND | GND
 
 - Open Arduino IDE and find the sensor examples:
 
-    - File > Examples > Adafruit TCS34725 > tcs34725
+    - File > Examples > SparkFun Bio Sensor Hub Library > Example1_config_BPM_Mode1.ino
 
 - Upload the code to your Arduino board.
 
 - Open Arduino's Serial Monitor to see the incoming data.
+
+----
+### UNDERSTANDING THE SENSOR DATA
+
+Library bioData type | what it does
+-|-
+body.heartrate	| Read heart rate
+body.oxygen	| Read blood Oxygen Levels
+body.status	| Confirm Finger Detection (explained below)
+body.irLed	| Number of IR LED Samples
+body.redLED	| Number of Red LED Samples
+
+
+
+Status Number |	Description
+-|-
+0	| No Object Detected
+1	| Object Detected
+2	| Object Other Than Finger Detected
+3	| Finger Detected
