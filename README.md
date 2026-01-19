@@ -17,4 +17,6 @@ Use this sensor when you need:
 
 - only need heart rate
 
-- raw analogue pulse data for real-time interaction or simulation
+- raw analogue pulse data for real-time interaction or simulation.
+
+- Ideal for real-time visuals, sound, or responsive installations.
