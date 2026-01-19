@@ -10,8 +10,10 @@ Use this sensor when you need
 
 - accurate and stable data for logging and analysis, such as recording heart rate over time for later review.
 
+- Used for health monitoring, research, or data-logging experiments.
 
-[Pulse Sensor]
+
+[Pulse Sensor Amp]
 
 Use this sensor when you need:
 
