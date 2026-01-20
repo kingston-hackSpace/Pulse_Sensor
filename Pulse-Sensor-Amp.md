@@ -57,15 +57,15 @@ More about wiring in the tutorial below
 ----
 ## CODE and INSTRUCTIONS
 
-- Open the Arduino IDE and install the "PulseSensor Playground":
+- Open the Arduino IDE and install the "PulseSensor Playground" Library:
 
-    - Open your Library Manager
+    - Open your Library Manager.
  
-    - Search for "PulseSensor Playground" and install
+    - Search for "PulseSensor Playground" and install.
   
 - Please follow the next two tutorials in the order provided.  
 
-STEP 1: [Analog Signals tutorial](https://pulsesensor.com/pages/code-and-guide). This code was designed to visualise analog signals from the sensor by using the Arduino Serial Plotter. More stable signals for further visualisations will be explored next. 
+STEP 1: [Analog Signals tutorial](https://pulsesensor.com/pages/code-and-guide). This code was designed to visualise analog signals from the Pulse sensor by using the Arduino Serial Plotter. 
 
 STEP 2: [BPM](https://pulsesensor.com/pages/getting-advanced), you will find 2 tutorials:
 
@@ -79,7 +79,7 @@ STEP 2: [BPM](https://pulsesensor.com/pages/getting-advanced), you will find 2 t
                 
                 3. An smoothed or processed signal.
 
-Now you understand the sensor's outcoming data, you can use it for more advanced projects:
+Now you understand how the sensor's outcoming data works, you can use this data for more advanced projects:
 
 [Processing Heart Beat Visualiser](https://github.com/WorldFamousElectronics/PulseSensor_Amped_Processing_Visualizer)
 
