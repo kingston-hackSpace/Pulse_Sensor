@@ -47,7 +47,9 @@ The sensor is essentially a small optical heart rate monitor that uses photoplet
 The PulseSensor comes with a 3-cable ribbon cable terminating in a male header. The pinout is as follows:
 
 Purple Wire = Analog Pulse Signal
+
 Red Wire = Vdd, Power with 3V or 5V
+
 Black Wire = Ground
 
 More about wiring in the tutorial below
