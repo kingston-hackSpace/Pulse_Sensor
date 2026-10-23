@@ -1,6 +1,6 @@
 # Pulse Sensor Amp
 
-Reference image [here](https://github.com/kingston-hackSpace/Pulse_Sensor/blob/main/PulseSensor_1.webp)
+<img src="PulseSensor_1.webp" width="300">
 
 
 Watch video: [Pulse Sensor](https://www.youtube.com/watch?v=RbB8NSRa5X4)
